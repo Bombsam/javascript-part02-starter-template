@@ -1,0 +1,15 @@
+#main_div {
+    text-align: center;
+}
+
+#blue_div {
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    margin: 0 auto;
+}
+
+#change_color {
+    margin-top: 2rem;
+    font-size: 2rem;
+}
